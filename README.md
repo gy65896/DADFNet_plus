@@ -29,8 +29,10 @@
   title={Haze visibility enhancement for promoting traffic situational awareness in vision-enabled intelligent transportation},
   author={Guo, Yu and Liu, Ryan Wen and Lu, Yuxu and Nie, Jiangtian and Lyu, Lingjuan and Xiong, Zehui and Kang, Jiawen and Yu, Han and Niyato, Dusit},
   journal={IEEE Transactions on Vehicular Technology},
-  year={2023},
-  publisher={IEEE}
+  volume={72},
+  number={12},
+  pages={15421--15435},
+  year={2023}
 }
 ```
 
